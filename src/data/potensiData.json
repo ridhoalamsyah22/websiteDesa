@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "kategori": "UMKM",
+    "judul": "Produksi Opak Desa Bayur Lor",
+    "deskripsi": "Pakcoy segar hasil budidaya petani lokal Desa Jayakerta. Tanaman ini tumbuh subur di tanah desa yang kaya akan nutrisi, menjadikannya bahan makanan yang bergizi dan berkualitas tinggi.",
+    "gambar": "./assets/potensi/pakcoy.jpg"
+  },
+  {
+    "id": 2,
+    "kategori": "UMKM",
+    "judul": "Produksi Jamur Merang",
+    "deskripsi": "Kerupuk cikur khas Desa Jayakerta yang gurih dan renyah. Terbuat dari bahan-bahan alami dan rempah pilihan, kerupuk ini menjadi camilan favorit bagi semua kalangan.",
+    "gambar": "./assets/potensi/kerupuk.jpg"
+  },
+  {
+    "id": 3,
+    "kategori": "LAINNYA",
+    "judul": "Melimpahnya lahan pertanian, potensi Arang Sekam.",
+    "deskripsi": "Arang sekam merupakan Sekam padi yang dibakar hingga menjadi arang, dapat bermanfaat untuk tanaman. Manfaat ini ",
+    "gambar": "./assets/potensi/bazar.jpg"
+  }
+]
