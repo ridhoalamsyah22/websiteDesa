@@ -8,17 +8,21 @@ import galeri5 from '../assets/galeri/galeri5.jpg';
 import galeri6 from '../assets/galeri/galeri6.jpg';
 import galeri7 from '../assets/galeri/galeri7.jpg';
 import galeri8 from '../assets/galeri/galeri8.jpg';
+import galeri9 from '../assets/galeri/galeri8.jpg';
+import galeri10 from '../assets/galeri/galeri8.jpg';
 
 const Gallery = () => {
   const imageUrls = [
     { src: galeri1, text: 'Kegiatan SD' },
     { src: galeri2, text: 'Kantor Desa' },
-    { src: galeri3, text: 'Kegiatan MI' },
-    { src: galeri4, text: 'Pemandangan Sawah di Desa Jayakerta' },
+    { src: galeri3, text: 'Kegiatan DTA' },
+    { src: galeri4, text: 'Pemandangan Sawah di Desa Bayur Lor' },
     { src: galeri5, text: 'Rapat Minggon Desa' },
     { src: galeri6, text: 'Senam' },
-    { src: galeri7, text: 'Suasana Desa Jayakerta' },
-    { src: galeri8, text: 'Masjid / Mushola' }
+    { src: galeri7, text: 'Suasana Desa Bayur Lor' },
+    { src: galeri8, text: 'Bak Sampah' },
+    { src: galeri9, text: 'Literasi Digital' },
+    { src: galeri10, text: 'Masjid' }
   ];
 
   const bgColor = useColorModeValue('gray.100', 'gray.700');

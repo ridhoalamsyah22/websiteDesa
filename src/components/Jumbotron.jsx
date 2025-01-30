@@ -7,9 +7,9 @@ const Jumbotron = () => {
   const bgColor = useColorModeValue('#12372A', 'whitesmoke');
 
   // Animation values
-  const propsPopulation = useSpring({ number: 3164 , from: { number: 0 }, config: { duration: 2000 } });
-  const propsArea = useSpring({ number:  265.00, from: { number: 0 }, config: { duration: 2000 } });
-  const propsVillages = useSpring({ number: 4, from: { number: 0 }, config: { duration: 2000 } });
+  const propsPopulation = useSpring({ number: 3164 , from: { number: 0 }, config: { duration:2500 } });
+  const propsArea = useSpring({ number:  265.00, from: { number: 0 }, config: { duration:2500 } });
+  const propsVillages = useSpring({ number: 4, from: { number: 0 }, config: { duration:2500 } });
 
   return (
     <Box as="section" py={16} bg={bgColor} color={textColor} className="rounded-md">

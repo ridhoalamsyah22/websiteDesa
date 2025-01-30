@@ -24,10 +24,10 @@ import posyanduImage from '../assets/news/posyandu.jpg';
 import ecoImage from '../assets/news/eco.jpg'
 import tpsImage from '../assets/news/tps.jpg';
 import digitalImage from '../assets/news/digital.jpg';
-import dmImage from '../assets/news/dm.jpg';
+// import umkmImage from '../assets/news/umkm.jpg';
 import dtaImage from '../assets/news/dta.jpg';
 import ngajarImage from '../assets/news/ngajar.jpg';
-import jumsihImage from '../assets/news/jumsih.jpg';
+import dumkmImage from '../assets/news/dumkm.jpg';
 import senamImage from '../assets/news/senam.jpg';
 import pepdImage from '../assets/news/pepd.jpg';
 import pojokImage from '../assets/news/pojok.jpg';
@@ -36,14 +36,14 @@ import sosialImage from '../assets/news/sosial.jpg';
 const imageMap = {
   './assets/news/digital.jpg': digitalImage, //-> Digitalisasi
   './assets/news/posyandu.jpg': posyanduImage, //-> posyandu
-  // './assets/news/dm.jpg': dmImage, -> opak
+  // './assets/news/umkm.jpg': umkmImage, -> opak
   './assets/news/tps.jpg': tpsImage, //-> bak sampah
   './assets/news/eco.jpg': ecoImage, //-> ecobrick
   './assets/news/dta.jpg': dtaImage, //-> DTA
   './assets/news/ngajar.jpg': ngajarImage, //-> mengajar SD
   './assets/news/pojok.jpg': pojokImage, //-> pojok literasi
   './assets/news/senam.jpg': senamImage, //-> senam
-  // './assets/news/bullying.jpg': bullyingImage, -> digitalisasi umkm
+  './assets/news/dumkm.jpg': dumkmImage, //-> digitalisasi umkm
   './assets/news/pepd.jpg': pepdImage,
   './assets/news/sosial.jpg': sosialImage, //-> pengelolaan sampah
 };

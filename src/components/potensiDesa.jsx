@@ -103,7 +103,7 @@ const PotensiDesa = () => {
                 <Heading as="h5" size="md" mb={2} fontWeight="bold" color={textColor}>
                   {item.judul}
                 </Heading>
-                <Text color={contentTextColor}>
+                <Text color={contentTextColor} textAlign="justify">
                   {item.deskripsi}
                 </Text>
               </Box>

@@ -14,7 +14,19 @@ const Location = () => {
         </Heading>
 
         <Grid templateColumns={{ base: '1fr', md: '1fr 1fr' }} gap={6}>
-
+          {/* Google Maps Embed */}
+          <Box>
+            <iframe
+              src={mapUrl}
+              width="100%"
+              height="400"
+              style={{ border: 0, borderRadius: '8px' }}
+              allowFullScreen
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+              title="Google Maps"
+            ></iframe>
+          </Box>
           {/* Description and Contact Information */}
           <Box>
             <Heading as="h3" size="lg" mb={4} color={textColor}>
@@ -39,22 +51,9 @@ const Location = () => {
               <span>Desa CIKARANG</span>
               <span>Sebelah Barat</span>
               <span>:</span>
-              <span>Desa LANGGENSARI</span>
+              <span>Desa LANGENSARI</span>
             </div>
             </Text>
-          </Box>
-          {/* Google Maps Embed */}
-          <Box>
-            <iframe
-              src={mapUrl}
-              width="100%"
-              height="400"
-              style={{ border: 0, borderRadius: '8px' }}
-              allowFullScreen
-              loading="lazy"
-              referrerPolicy="no-referrer-when-downgrade"
-              title="Google Maps"
-            ></iframe>
           </Box>
         </Grid>
       </div>
