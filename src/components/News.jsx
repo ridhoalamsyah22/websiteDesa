@@ -32,6 +32,7 @@ import senamImage from '../assets/news/senam.jpg';
 import pepdImage from '../assets/news/pepd.jpg';
 import pojokImage from '../assets/news/pojok.jpg';
 import sosialImage from '../assets/news/sosial.jpg';
+import kerjaImage from '../assets/news/kerja.jpg';
 
 const imageMap = {
   './assets/news/digital.jpg': digitalImage, //-> Digitalisasi
@@ -46,6 +47,7 @@ const imageMap = {
   './assets/news/dumkm.jpg': dumkmImage, //-> digitalisasi umkm
   './assets/news/pepd.jpg': pepdImage,
   './assets/news/sosial.jpg': sosialImage, //-> pengelolaan sampah
+  './assets/news/kerja.jpg': kerjaImage, //-> pengelolaan sampah
 };
 
 const News = () => {

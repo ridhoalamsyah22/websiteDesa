@@ -1,11 +1,11 @@
 import { Box, Grid, Image, Heading, Text, useColorModeValue } from '@chakra-ui/react';
 
+import galeri5 from '../assets/galeri/minggon.jpg';
 import galeri1 from '../assets/galeri/galeri1.jpg';
-import galeri2 from '../assets/galeri/galeri2.jpg';
-import galeri3 from '../assets/galeri/galeri3.jpg';
-import galeri4 from '../assets/galeri/galeri4.jpg';
-import galeri5 from '../assets/galeri/galeri5.jpg';
-import galeri6 from '../assets/galeri/galeri6.jpg';
+import galeri2 from '../assets/galeri/kantor.jpg';
+import galeri3 from '../assets/galeri/dta.jpg';
+import galeri4 from '../assets/galeri/sawah1.jpg';
+import galeri6 from '../assets/galeri/senam.jpg';
 import galeri7 from '../assets/galeri/galeri7.jpg';
 import galeri8 from '../assets/galeri/galeri8.jpg';
 import galeri9 from '../assets/galeri/galeri8.jpg';
@@ -13,11 +13,11 @@ import galeri10 from '../assets/galeri/galeri8.jpg';
 
 const Gallery = () => {
   const imageUrls = [
+    { src: galeri5, text: 'Rapat Minggon Desa' },
     { src: galeri1, text: 'Kegiatan SD' },
     { src: galeri2, text: 'Kantor Desa' },
     { src: galeri3, text: 'Kegiatan DTA' },
     { src: galeri4, text: 'Pemandangan Sawah di Desa Bayur Lor' },
-    { src: galeri5, text: 'Rapat Minggon Desa' },
     { src: galeri6, text: 'Senam' },
     { src: galeri7, text: 'Suasana Desa Bayur Lor' },
     { src: galeri8, text: 'Bak Sampah' },

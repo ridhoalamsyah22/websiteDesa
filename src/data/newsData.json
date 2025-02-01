@@ -51,7 +51,7 @@
       "title": "Digitalisasi dan Pemasaran Produk UMKM",
       "date": " 17 - 20 Januari 2025",
       "content": "Kegiatan Digitalisasi dan Pemasaran Produk UMKM dilaksanakan untuk membantu pelaku usaha mikro, kecil dan menengah (UMKM) dalam memanfaatkan teknologi digital guna mengembangkan usaha mereka.",
-      "image": "./assets/news/puskesos.jpg"
+      "image": "./assets/news/dumkm.jpg"
     },
     {
       "title": "Penyuluhan Edukasi Perlindungan Diri",
@@ -70,5 +70,11 @@
       "date": " 27 - 28 Januari 2025",
       "content": "Kegiatan Sosialisasi Pengelolaan Sampah dilaksanakan di 4 dusun yaitu dusun Krajan, Paris, Bayur Lor 1 dan Bayur Lor 2, dengan 2 dusun setiap harinya, sebagai upaya untuk meningkatkan kesadaran masyarakat tentang pentingnya pengelolaan sampah yang baik dan ramah lingkungan.",
       "image": "./assets/news/sosial.jpg"
+    },
+    {
+      "title": "Kerja Bakti",
+      "date": "31 Januari 2025",
+      "content": "Kegiatan Kerja Bakti dilaksanakan di Kantor Desa Bayur Lor sebagai upaya kebersihan dan kenyamanan lingkungan kantor desa. Kegiatan ini melibatkan perangkat desa dan warga setempat yang bersama-sama membersihkan area sekitar termasuk halaman, ruang pelayanan, serta fasilitas umum lainnya. Melalui kegiatan ini, diharapkan kesadaran akan pentingnya kebersihan dan gotong royong semakin meningkat, serta menciptakan lingkungan pelayanan yang lebih baik bagi masyarakat.",
+      "image": "./assets/news/kerja.jpg"
     }
   ]
