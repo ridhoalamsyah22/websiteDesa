@@ -24,10 +24,10 @@ import posyanduImage from '../assets/news/posyandu.jpg';
 import ecoImage from '../assets/news/eco.jpg'
 import tpsImage from '../assets/news/tps.jpg';
 import digitalImage from '../assets/news/digital.jpg';
-// import umkmImage from '../assets/news/umkm.jpg';
+import dumkmImage from '../assets/news/dumkm.jpg';
 import dtaImage from '../assets/news/dta.jpg';
 import ngajarImage from '../assets/news/ngajar.jpg';
-import dumkmImage from '../assets/news/dumkm.jpg';
+import pumkmImage from '../assets/news/pumkm.jpg';
 import senamImage from '../assets/news/senam.jpg';
 import pepdImage from '../assets/news/pepd.jpg';
 import pojokImage from '../assets/news/pojok.jpg';
@@ -37,7 +37,7 @@ import kerjaImage from '../assets/news/kerja.jpg';
 const imageMap = {
   './assets/news/digital.jpg': digitalImage, //-> Digitalisasi
   './assets/news/posyandu.jpg': posyanduImage, //-> posyandu
-  // './assets/news/umkm.jpg': umkmImage, -> opak
+  './assets/news/pumkm.jpg': pumkmImage, //-> opak
   './assets/news/tps.jpg': tpsImage, //-> bak sampah
   './assets/news/eco.jpg': ecoImage, //-> ecobrick
   './assets/news/dta.jpg': dtaImage, //-> DTA

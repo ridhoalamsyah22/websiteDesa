@@ -6,10 +6,10 @@ import galeri2 from '../assets/galeri/kantor.jpg';
 import galeri3 from '../assets/galeri/dta.jpg';
 import galeri4 from '../assets/galeri/sawah1.jpg';
 import galeri6 from '../assets/galeri/senam.jpg';
-import galeri7 from '../assets/galeri/galeri7.jpg';
+import galeri7 from '../assets/galeri/suasana.jpg';
 import galeri8 from '../assets/galeri/tps.jpg';
 import galeri9 from '../assets/galeri/literasi.jpg';
-import galeri10 from '../assets/galeri/galeri8.jpg';
+import galeri10 from '../assets/galeri/masjid.jpg';
 
 const Gallery = () => {
   const imageUrls = [
