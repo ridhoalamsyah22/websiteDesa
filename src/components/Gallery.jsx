@@ -1,14 +1,14 @@
 import { Box, Grid, Image, Heading, Text, useColorModeValue } from '@chakra-ui/react';
 
 import galeri5 from '../assets/galeri/minggon.jpg';
-import galeri1 from '../assets/galeri/galeri1.jpg';
+import galeri1 from '../assets/galeri/sd.jpg';
 import galeri2 from '../assets/galeri/kantor.jpg';
 import galeri3 from '../assets/galeri/dta.jpg';
 import galeri4 from '../assets/galeri/sawah1.jpg';
 import galeri6 from '../assets/galeri/senam.jpg';
 import galeri7 from '../assets/galeri/galeri7.jpg';
-import galeri8 from '../assets/galeri/galeri8.jpg';
-import galeri9 from '../assets/galeri/galeri8.jpg';
+import galeri8 from '../assets/galeri/tps.jpg';
+import galeri9 from '../assets/galeri/literasi.jpg';
 import galeri10 from '../assets/galeri/galeri8.jpg';
 
 const Gallery = () => {

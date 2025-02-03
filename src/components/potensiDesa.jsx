@@ -12,11 +12,11 @@ import { InfoOutlineIcon } from '@chakra-ui/icons';
 import potensiData from '../data/potensiData.json';
 
 // Import images
-import pakcoyImage from '../assets/potensi/pakcoy.jpg';
-import kerupukImage from '../assets/potensi/kerupuk.jpg';
+import opakImage from '../assets/potensi/opak.jpg';
+import jamurImage from '../assets/potensi/jamur.jpg';
 import mangroveImage from '../assets/potensi/mangrove.jpeg';
 import sedariImage from '../assets/potensi/sedari.jpg';
-import bazarImage from '../assets/potensi/bazar.jpg';
+import sekamImage from '../assets/potensi/sekam.jpg';
 import majunImage from '../assets/potensi/majun.jpg';
 import kueBasahImage from '../assets/potensi/kue-basah.jpg';
 import mochiImage from '../assets/potensi/mochi.jpg';
@@ -25,11 +25,11 @@ import jajananImage from '../assets/potensi/jajanan.jpg';
 
 // Map images to their paths
 const imageMap = {
-  './assets/potensi/pakcoy.jpg': pakcoyImage,
-  './assets/potensi/kerupuk.jpg': kerupukImage,
+  './assets/potensi/opak.jpg': opakImage,
+  './assets/potensi/jamur.jpg': jamurImage,
   './assets/potensi/mangrove.jpeg': mangroveImage,
   './assets/potensi/sedari.jpg': sedariImage,
-  './assets/potensi/bazar.jpg': bazarImage,
+  './assets/potensi/sekam.jpg': sekamImage,
   './assets/potensi/majun.jpg': majunImage,
   './assets/potensi/kue-basah.jpg': kueBasahImage,
   './assets/potensi/mochi.jpg': mochiImage,

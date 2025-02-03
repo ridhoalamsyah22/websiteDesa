@@ -4,20 +4,20 @@
     "kategori": "UMKM",
     "judul": "Produksi Opak Desa Bayur Lor",
     "deskripsi": "Produksi opak di Desa Bayur Lor merupakan salah satu usaha unggulan yang masih mempertahankan metode tradisional, mulai dari pemilihan beras ketan, pengolahan adonan, hingga proses pengeringan dan pemanggangan. Untuk meningkatkan daya saing, para pelaku usaha berinovasi dengan berbagai varian rasa dan kemasan yang lebih menarik, serta memanfaatkan pemasaran digital melalui media sosial.",
-    "gambar": "./assets/potensi/pakcoy.jpg"
+    "gambar": "./assets/potensi/opak.jpg"
   },
   {
     "id": 2,
     "kategori": "UMKM",
     "judul": "Produksi Jamur Merang",
     "deskripsi": "Budidaya jamur merang di Desa Bayur Lor ini dilakukan dengan memanfaatkan limbah pertanian seperti jerami sebagai media tanam yang difermentasikan. Produksi jamur merang di Desa Bayur Lor tidak hanya sebatas budidaya, tetapi juga dimanfaatkan untuk inovasi produk olahan, salah satunya nugget jamur merang.",
-    "gambar": "./assets/potensi/kerupuk.jpg"
+    "gambar": "./assets/potensi/jamur.jpg"
   },
   {
     "id": 3,
     "kategori": "LAINNYA",
     "judul": "Melimpahnya lahan pertanian, potensi Arang Sekam.",
     "deskripsi": "Arang sekam merupakan sekam padi yang dibakar hingga menjadi arang, dapat bermanfaat untuk media tanam dan penyubur tanah, arang sekam juga bermanfaat dalam menyerap racun dan kelembaban tanah. Dengan pengolahan yang tepat, pemanfaatan arang sekam tidak hanya mendukung pertanian berkelanjutan tetapi juga berpotensi menjadi peluang usaha.",
-    "gambar": "./assets/potensi/bazar.jpg"
+    "gambar": "./assets/potensi/sekam.jpg"
   }
 ]
