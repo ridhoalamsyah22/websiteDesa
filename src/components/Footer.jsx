@@ -30,10 +30,10 @@ const Footer = () => {
             Ikuti Kami
           </Text>
           <Stack direction="row" spacing={4} justify="center">
-            <Link href="https://instagram.com/kkndesajayakerta2024" isExternal>
+            <Link href="https://www.instagram.com/kkndesabayurlor2025/" isExternal>
               <FaInstagram size="24px" />
             </Link>
-            <Link href="https://www.youtube.com/@KKNDesaJayakerta2024" isExternal>
+            <Link href="https://www.youtube.com/@KKNDesaBayurlor2024-t1g" isExternal>
               <FaYoutube size="24px" />
             </Link>
           </Stack>
